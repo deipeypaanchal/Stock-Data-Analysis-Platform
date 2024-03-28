@@ -1,0 +1,11 @@
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\bin\Debug\Proj 1.exe.config
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\bin\Debug\Proj 1.exe
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\bin\Debug\Proj 1.pdb
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\COP4365Project3.csproj.AssemblyReference.cache
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\Proj_1.ChartDisplayForm.resources
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\Proj_1.FormEntry.resources
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\Proj_1.Properties.Resources.resources
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\COP4365Project3.csproj.GenerateResource.cache
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\COP4365Project3.csproj.CoreCompileInputs.cache
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\Proj 1.exe
+C:\Users\Deipey Paanchal\Desktop\Proj 1\Proj 1\obj\Debug\Proj 1.pdb
